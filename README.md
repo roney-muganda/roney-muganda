@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Roney Baraka | Full-Stack Developer
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmRmMnloOXFvOHh4Z2Nra25vZmFlMHplNGlnNGEyam9zdzk5a3h5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RcsonxhFOqAdOiHeWB/giphy.gif" width="230" style="border-radius: 100px;">
 
-<!--
-**roney-muganda/roney-muganda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/BarakaRoney)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:barakaroney001@gmail.com)
 
-Here are some ideas to get you started:
+### 💻 About Me
+I’m a **full-stack developer** passionate about building seamless solutions across the stack. Currently diving deep into **AI development**, with a focus on creating an intelligent voice assistant using natural language processing (NLP). My goal is to bridge automation with human-like interactions, starting with mobile integration via React Native.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Current Focus**:  
+- Building an **AI Voice Assistant** with NLP capabilities.  
+- Designing automation workflows for future scalability.  
+- Preparing for React Native mobile app development.  
+
+🌱 **Learning**: Advanced NLP techniques, AI/ML integration, and edge computing.
+
+---
+
+### 🛠️ Tech Stack
+**Frontend**:  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Backend**:  
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Databases**:  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Tools**:  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🤖 **AI Voice Assistant** | NLP & Automation  
+_A work-in-progress AI assistant leveraging natural language processing for intuitive interactions._  
+🔗 [GitHub Repo](https://github.com/yourusername/ai-voice-assistant)  
+✅ **Features**:  
+- Voice command recognition  
+- Context-aware responses  
+- Future: React Native mobile integration  
+
+#### 🛒 **E-Commerce Platform** | Ruby on Rails  
+_A full-stack marketplace built with Rails and React._  
+🔗 [GitHub Repo](https://github.com/yourusername/ecommerce-app)  
+✅ **Tech**: Rails, PostgreSQL, React, Stripe API  
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarakaRoney&layout=compact&theme=vision-friendly-dark&show_icons=true&_name) 
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarakaRoney&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📫 Let’s Connect!
+- 💬 **Ask me about**: Full-stack development, AI workflows, or Ruby on Rails best practices!  
+- 📧 **Email**: [barakaroney001@gmail.com](mailto:your.barakaroney001@gmail.com)  
+  
