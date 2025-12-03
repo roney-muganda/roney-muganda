@@ -57,9 +57,9 @@ _A full-stack marketplace built with Rails and React._
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BarakaRoney&layout=compact&theme=vision-friendly-dark&show_icons=true&_name) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roney-muganda&layout=compact&theme=vision-friendly-dark&show_icons=true&_name) 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BarakaRoney&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roney-muganda&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
