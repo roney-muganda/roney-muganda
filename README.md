@@ -47,11 +47,11 @@ I’m a **Full-Stack Developer** bridging the gap between robust web architectur
 ### 🚀 Featured Projects
 
 #### 🌐 [Netbaze](https://netbaze-web.vercel.app/)
-**Stack:** React, Next.js, Tailwind, Supabase
+**Stack:** Next js, Python(Django), PostgreSQL
 > A dynamic platform designed to streamline digital connections. Built with high performance and scalability in mind, featuring real-time data updates and a modern UI.
 
 #### ⚖️ [Sheria Flow](https://github.com/BarakaRoney/sheria-flow)
-**Stack:** React, Ruby on Rails, PostgreSQL
+**Stack:** React, Python
 > A legal workflow management tool designed to simplify case handling and documentation for legal professionals.
 
 ---
